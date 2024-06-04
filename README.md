@@ -4,7 +4,7 @@
 [![CNCF Status](https://img.shields.io/badge/cncf%20status-incubation-blue.svg)](https://www.cncf.io/projects)
 [![Discord](https://img.shields.io/discord/687207715902193673?logo=discord&label=Discord&color=5865F2&logoColor=white)](https://discord.gg/backstage-687207715902193673)
 
-## What is the community-plugins repository?
+## What is the community-plugins repository? test
 
 The `community-plugins` repository is a place where members of the community can host a plugin or a set of plugins. The goal of community-plugins is to reduce the amount of pull requests and issues from `backstage/backstage`, which has become too big with the time.
 By creating community-plugins we give to plugin maintainers all the tools to easily manage and publish their plugins.
